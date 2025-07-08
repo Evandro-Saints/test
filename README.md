@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <title>Claim Your Reward </title>
+  Claim Your Reward!
 </head>
 <body>
   <h1>🎁 Saints!</h1>
