@@ -1,11 +1,7 @@
 
 <html>
 <head>
-  <title>Claim Your Reward</title>
-  <style>
-    body { font-family: Arial; text-align: center; padding: 50px; }
-    .login-box { background: #f5f5f5; padding: 30px; max-width: 400px; margin: 0 auto; }
-  </style>
+  <title>Claim Your Reward </title>
 </head>
 <body>
   <h1>🎁 Saints!</h1>
